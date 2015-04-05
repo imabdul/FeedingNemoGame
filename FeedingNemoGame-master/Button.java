@@ -31,7 +31,6 @@ public class Button extends Actor implements IInvoker
             MouseInfo m = Greenfoot.getMouseInfo();
             if(m != null) {
             }
-            
         }
         lastX = x;
         lastY = y;
